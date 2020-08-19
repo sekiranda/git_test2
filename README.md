@@ -1,1 +1,1 @@
-This IS Clement's first git project
+This is Clement's first git project
